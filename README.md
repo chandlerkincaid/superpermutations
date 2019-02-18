@@ -1,0 +1,2 @@
+# superpermutations
+An exploration
